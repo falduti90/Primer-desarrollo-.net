@@ -1,0 +1,12 @@
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco San Miguel.csproj.AssemblyReference.cache
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco San Miguel.csproj.SuggestedBindingRedirects.cache
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco_San_Miguel.Inicio.resources
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco_San_Miguel.Prestamos.resources
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco_San_Miguel.Properties.Resources.resources
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco San Miguel.csproj.GenerateResource.cache
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco San Miguel.csproj.CoreCompileInputs.cache
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\bin\Debug\Banco San Miguel.exe.config
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\bin\Debug\Banco San Miguel.exe
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\bin\Debug\Banco San Miguel.pdb
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco San Miguel.exe
+C:\Users\faldu\Desktop\Banco\Banco San Miguel\Banco San Miguel\obj\Debug\Banco San Miguel.pdb
